@@ -7,6 +7,6 @@
   <title>test git</title>
 </head>
 <body>
-nano b
+  <i>hi</i>
 </body>
 </html>
