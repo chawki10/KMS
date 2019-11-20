@@ -1,2 +1,5 @@
 kms
 --skill instance (name)-- date 2019 11 19-----------------------
+ git remote add origin https://github.com/chawki10/KMS.git
+ git push -u origin master  chawki10 W!!
+
